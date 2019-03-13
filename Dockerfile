@@ -5,6 +5,7 @@ RUN apt-get update && \
 	texlive-full \
 	vim make \
 	git hub \
-	wget && \
+	wget \
+	openssl && \
     rm -rf /var/lib/apt/lists/*
 
