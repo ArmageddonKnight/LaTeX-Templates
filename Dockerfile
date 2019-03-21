@@ -1,11 +1,9 @@
-FROM ubuntu:19.04
+FROM ubuntu:18.04
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
 	texlive-full \
-	vim make \
-	git hub \
-	wget \
-	openssl && \
+	make \
+	git wget && \
     rm -rf /var/lib/apt/lists/*
 
