@@ -1,3 +1,3 @@
-# texlive-full
+# latex-templates
 
-This repository contains the build environment for Latex projects.
+Latex Templates and Build Environment
