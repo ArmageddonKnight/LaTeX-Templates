@@ -8,4 +8,3 @@ RUN apt-get update && \
 	make \
 	git wget && \
     rm -rf /var/lib/apt/lists/*
-
