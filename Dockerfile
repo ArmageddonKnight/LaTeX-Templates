@@ -1,10 +1,6 @@
-FROM ubuntu:18.04
+FROM armageddonknight/texlive-full:latest
 
-ENV DEBIAN_FRONTEND=noninteractive
+COPY entrypoint.sh \
+     /root/
 
-RUN apt-get update && \
-    apt-get install -y --no-install-recommends \
-	texlive-full \
-	make \
-	git wget && \
-    rm -rf /var/lib/apt/lists/*
+CMD ["make"]
