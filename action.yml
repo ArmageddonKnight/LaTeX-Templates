@@ -1,0 +1,5 @@
+name: Github Action for LaTeX
+
+runs:
+    using: docker
+    image: texlive-full.Dockerfile
