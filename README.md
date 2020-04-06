@@ -1,6 +1,6 @@
-# Latex Templates
+# LaTex Templates
 
-Latex Templates and Build Environment
+LaTex Templates and Build Environment
 
 | Latex Template | Build Status |
 |:--------------:|:------------:|
