@@ -1,9 +1,9 @@
-[submodule "Acmart-Sigconf"]
-	path = Acmart-Sigconf
-	url = https://github.com/ArmageddonKnight/Acmart-Sigconf
 [submodule "Beamer"]
 	path = Beamer
 	url = https://github.com/ArmageddonKnight/Beamer
 [submodule "NeurIPS"]
 	path = NeurIPS
 	url = https://github.com/ArmageddonKnight/NeurIPS
+[submodule "acmSigConf"]
+	path = acmSigConf
+	url = https://github.com/ArmageddonKnight/acmSigConf
