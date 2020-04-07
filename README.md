@@ -1,8 +1,8 @@
-# LaTex Templates
+# LaTeX Templates
 
-LaTex Templates and Build Environment
+LaTeX Templates and Build Environment
 
-| LaTex Template | Build Status |
+| LaTeX Template | Build Status |
 |:--------------:|:------------:|
 | Acmart-Sigconf | ![](https://github.com/ArmageddonKnight/Acmart-Sigconf/workflows/build/badge.svg) |
 | Beamer         | ![](https://github.com/ArmageddonKnight/Beamer/workflows/build/badge.svg) |
