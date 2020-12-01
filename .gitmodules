@@ -7,3 +7,6 @@
 [submodule "acmSigConf"]
 	path = acmSigConf
 	url = https://github.com/ArmageddonKnight/acmSigConf
+[submodule "IEEEtran"]
+	path = IEEEtran
+	url = https://github.com/ArmageddonKnight/IEEEtran
