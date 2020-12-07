@@ -1,12 +1,12 @@
-[submodule "Beamer"]
-	path = Beamer
-	url = https://github.com/ArmageddonKnight/Beamer
-[submodule "NeurIPS"]
-	path = NeurIPS
-	url = https://github.com/ArmageddonKnight/NeurIPS
 [submodule "acmSigConf"]
 	path = acmSigConf
 	url = https://github.com/ArmageddonKnight/acmSigConf
+[submodule "Beamer"]
+	path = Beamer
+	url = https://github.com/ArmageddonKnight/Beamer
 [submodule "IEEEtran"]
 	path = IEEEtran
 	url = https://github.com/ArmageddonKnight/IEEEtran
+[submodule "NeurIPS"]
+	path = NeurIPS
+	url = https://github.com/ArmageddonKnight/NeurIPS
