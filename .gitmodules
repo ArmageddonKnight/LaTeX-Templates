@@ -7,3 +7,6 @@
 [submodule "NeurIPS"]
 	path = NeurIPS
 	url = https://github.com/ArmageddonKnight/NeurIPS
+[submodule "ICLR"]
+	path = ICLR
+	url = https://github.com/ArmageddonKnight/ICLR
