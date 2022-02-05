@@ -8,3 +8,5 @@ do
         git commit -am "Upgrading template" && git push
         cd ..
 done
+
+git commit -am "Upgrading templates" && git push
