@@ -10,3 +10,6 @@
 [submodule "ICLR"]
 	path = ICLR
 	url = https://github.com/ArmageddonKnight/ICLR
+[submodule "USENIX"]
+	path = USENIX
+	url = https://github.com/ArmageddonKnight/USENIX
