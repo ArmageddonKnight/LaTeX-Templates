@@ -14,4 +14,5 @@ do
         cd ..
 done
 
-git commit -am "Upgrading templates" && git push
+git add -A
+git commit -m "Upgrading templates" && git push
