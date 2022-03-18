@@ -4,8 +4,7 @@ services:
     texlive-dev:
         image: texlive-full:latest
         build:
-            context: ./dockerfiles
-            dockerfile: texlive.Dockerfile
+            context: .
         volumes:
             - .:/mnt
         working_dir: /mnt
