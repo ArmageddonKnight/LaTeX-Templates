@@ -6,7 +6,7 @@ do
         printf "* ${template}\n"
         printf "****************************************************************\n"
 
-        cp -r extra_pkgs.tex docker-compose.yml dockerfiles ${template}
+        cp -r extra_pkgs.tex .github ${template}
         cd ${template}
         make upgrade
         git add -A
