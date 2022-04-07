@@ -1,15 +1,18 @@
-[submodule "acmSigConf"]
-	path = acmSigConf
-	url = https://github.com/ArmageddonKnight/acmSigConf
+[submodule "ASPLOS"]
+	path = ASPLOS
+	url = https://github.com/ArmageddonKnight/ASPLOS
+[submodule "ICLR"]
+	path = ICLR
+	url = https://github.com/ArmageddonKnight/ICLR
 [submodule "IEEEtran"]
 	path = IEEEtran
 	url = https://github.com/ArmageddonKnight/IEEEtran
 [submodule "NeurIPS"]
 	path = NeurIPS
 	url = https://github.com/ArmageddonKnight/NeurIPS
-[submodule "ICLR"]
-	path = ICLR
-	url = https://github.com/ArmageddonKnight/ICLR
 [submodule "USENIX"]
 	path = USENIX
 	url = https://github.com/ArmageddonKnight/USENIX
+[submodule "acmSigConf"]
+	path = acmSigConf
+	url = https://github.com/ArmageddonKnight/acmSigConf

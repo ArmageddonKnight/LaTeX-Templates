@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-for template in ICLR IEEEtran NeurIPS USENIX acmSigConf
+for template in */
 do
         printf "****************************************************************\n"
         printf "* ${template}\n"
