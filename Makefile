@@ -1,9 +1,4 @@
-all: standalone.png Makefile
-
-%.png: %.tex
-	pdflatex -synctex=1 -interaction=nonstopmode -shell-escape $<
-
-.PHONY: clean upgrade
+.PHONY: clean
 clean:
 	find . -maxdepth 1 \
 		\( -name "*.aux" -o -name "*.bbl" -o -name "*.blg" -o \
