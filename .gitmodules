@@ -14,5 +14,5 @@
 	path = USENIX
 	url = https://github.com/ArmageddonKnight/USENIX
 [submodule "acmSigConf"]
-	path = acmSigConf
-	url = https://github.com/ArmageddonKnight/acmSigConf
+	path = acmSigPlan
+	url = https://github.com/ArmageddonKnight/acmSigPlan
