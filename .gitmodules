@@ -16,3 +16,6 @@
 [submodule "acmSigConf"]
 	path = acmSigPlan
 	url = https://github.com/ArmageddonKnight/acmSigPlan
+[submodule "DCSLetter"]
+	path = DCSLetter
+	url = https://github.com/ArmageddonKnight/DCSLetter
