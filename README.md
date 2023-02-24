@@ -5,6 +5,7 @@ LaTeX Templates and Build Environment
 | LaTeX Template | Build Status |
 |:--------------:|:------------:|
 | ASPLOS     | ![](https://github.com/ArmageddonKnight/ASPLOS/workflows/build/badge.svg) |
+| DCSLetter  | ![](https://github.com/ArmageddonKnight/DCSLetter/workflows/build/badge.svg) |
 | ICLR       | ![](https://github.com/ArmageddonKnight/ICLR/workflows/build/badge.svg) |
 | IEEEtran   | ![](https://github.com/ArmageddonKnight/IEEEtran/workflows/build/badge.svg) |
 | NeurIPS    | ![](https://github.com/ArmageddonKnight/NeurIPS/workflows/build/badge.svg) |
