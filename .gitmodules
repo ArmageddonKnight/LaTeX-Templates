@@ -7,6 +7,9 @@
 [submodule "IEEEtran"]
 	path = IEEEtran
 	url = https://github.com/ArmageddonKnight/IEEEtran
+[submodule "MICRO"]
+	path = MICRO
+	url = https://github.com/ArmageddonKnight/MICRO
 [submodule "NeurIPS"]
 	path = NeurIPS
 	url = https://github.com/ArmageddonKnight/NeurIPS
@@ -16,6 +19,3 @@
 [submodule "acmSigConf"]
 	path = acmSigPlan
 	url = https://github.com/ArmageddonKnight/acmSigPlan
-[submodule "MICRO"]
-	path = MICRO
-	url = https://github.com/ArmageddonKnight/MICRO
