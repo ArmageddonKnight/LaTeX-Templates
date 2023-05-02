@@ -1,9 +1,6 @@
 [submodule "ASPLOS"]
 	path = ASPLOS
 	url = https://github.com/ArmageddonKnight/ASPLOS
-[submodule "DCSLetter"]
-	path = DCSLetter
-	url = https://github.com/ArmageddonKnight/DCSLetter
 [submodule "ICLR"]
 	path = ICLR
 	url = https://github.com/ArmageddonKnight/ICLR
