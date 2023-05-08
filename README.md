@@ -10,4 +10,4 @@ LaTeX Templates and Build Environment
 | MICRO      | ![](https://github.com/ArmageddonKnight/MICRO/workflows/build/badge.svg) |
 | NeurIPS    | ![](https://github.com/ArmageddonKnight/NeurIPS/workflows/build/badge.svg) |
 | USENIX     | ![](https://github.com/ArmageddonKnight/USENIX/workflows/build/badge.svg) |
-| acmSigConf | ![](https://github.com/ArmageddonKnight/acmSigConf/workflows/build/badge.svg) |
+| acmSigPlan | ![](https://github.com/ArmageddonKnight/acmSigPlan/workflows/build/badge.svg) |
