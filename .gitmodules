@@ -13,3 +13,6 @@
 [submodule "acmSigConf"]
 	path = acmSigPlan
 	url = https://github.com/ArmageddonKnight/acmSigPlan
+[submodule "ut-thesis"]
+	path = ut-thesis
+	url = https://github.com/ArmageddonKnight/ut-thesis
