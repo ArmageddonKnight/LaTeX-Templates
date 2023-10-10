@@ -1,15 +1,9 @@
-[submodule "ASPLOS"]
-	path = ASPLOS
-	url = https://github.com/ArmageddonKnight/ASPLOS
 [submodule "ICLR"]
 	path = ICLR
 	url = https://github.com/ArmageddonKnight/ICLR
 [submodule "IEEEtran"]
 	path = IEEEtran
 	url = https://github.com/ArmageddonKnight/IEEEtran
-[submodule "MICRO"]
-	path = MICRO
-	url = https://github.com/ArmageddonKnight/MICRO
 [submodule "NeurIPS"]
 	path = NeurIPS
 	url = https://github.com/ArmageddonKnight/NeurIPS
