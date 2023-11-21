@@ -9,3 +9,4 @@ LaTeX Templates and Build Environment
 | NeurIPS    | ![](https://github.com/ArmageddonKnight/NeurIPS/workflows/build/badge.svg) |
 | USENIX     | ![](https://github.com/ArmageddonKnight/USENIX/workflows/build/badge.svg) |
 | acmSigPlan | ![](https://github.com/ArmageddonKnight/acmSigPlan/workflows/build/badge.svg) |
+| ut-thesis | ![](https://github.com/ArmageddonKnight/ut-thesis/workflows/build/badge.svg) |
