@@ -7,9 +7,6 @@
 [submodule "NeurIPS"]
 	path = NeurIPS
 	url = https://github.com/ArmageddonKnight/NeurIPS
-[submodule "USENIX"]
-	path = USENIX
-	url = https://github.com/ArmageddonKnight/USENIX
 [submodule "acmSigConf"]
 	path = acmSigPlan
 	url = https://github.com/ArmageddonKnight/acmSigPlan
