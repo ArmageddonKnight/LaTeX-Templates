@@ -8,7 +8,7 @@
 	path = NeurIPS
 	url = https://github.com/ArmageddonKnight/NeurIPS
 [submodule "acmSigConf"]
-	path = acmSigPlan
+	path = acmSigConf
 	url = https://github.com/ArmageddonKnight/acmSigPlan
 [submodule "ut-thesis"]
 	path = ut-thesis
